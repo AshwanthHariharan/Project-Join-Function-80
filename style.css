@@ -1,0 +1,15 @@
+#left {
+    float: left ;
+    width: 49% ;
+  }
+  #right {
+    float: right;
+    width: 49%;
+  }
+
+
+
+  input[type=text] {
+    background-color: #267f8f;
+    color:rgb(252, 249, 249);
+  }
